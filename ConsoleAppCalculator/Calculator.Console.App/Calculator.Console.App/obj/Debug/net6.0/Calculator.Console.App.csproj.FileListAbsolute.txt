@@ -1,0 +1,15 @@
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.AssemblyInfoInputs.cache
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.AssemblyInfo.cs
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.csproj.CoreCompileInputs.cache
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.sourcelink.json
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\bin\Debug\net6.0\Calculator.Console.App.exe
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\bin\Debug\net6.0\Calculator.Console.App.deps.json
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\bin\Debug\net6.0\Calculator.Console.App.runtimeconfig.json
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\bin\Debug\net6.0\Calculator.Console.App.dll
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\bin\Debug\net6.0\Calculator.Console.App.pdb
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.dll
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\refint\Calculator.Console.App.dll
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.pdb
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\Calculator.Console.App.genruntimeconfig.cache
+C:\Users\mateu\WebAppTraining\ConsoleAppCalculator\Calculator.Console.App\Calculator.Console.App\obj\Debug\net6.0\ref\Calculator.Console.App.dll

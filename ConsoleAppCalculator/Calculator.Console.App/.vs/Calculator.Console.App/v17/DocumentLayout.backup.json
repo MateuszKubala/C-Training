@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\WebAppTraining\\ConsoleAppCalculator\\Calculator.Console.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85BB86-AACC-40E6-90D6-60ECF1CB2D2D}|Calculator.Console.App\\Calculator.Console.App.csproj|c:\\users\\mateu\\webapptraining\\consoleappcalculator\\calculator.console.app\\calculator.console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B85BB86-AACC-40E6-90D6-60ECF1CB2D2D}|Calculator.Console.App\\Calculator.Console.App.csproj|solutionrelative:calculator.console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B85BB86-AACC-40E6-90D6-60ECF1CB2D2D}|Calculator.Console.App\\Calculator.Console.App.csproj|c:\\users\\mateu\\webapptraining\\consoleappcalculator\\calculator.console.app\\calculator.console.app\\calculator.console.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B85BB86-AACC-40E6-90D6-60ECF1CB2D2D}|Calculator.Console.App\\Calculator.Console.App.csproj|solutionrelative:calculator.console.app\\calculator.console.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.Console.App",
+              "DocumentMoniker": "C:\\Users\\mateu\\WebAppTraining\\ConsoleAppCalculator\\Calculator.Console.App\\Calculator.Console.App\\Calculator.Console.App.csproj",
+              "RelativeDocumentMoniker": "Calculator.Console.App\\Calculator.Console.App.csproj",
+              "ToolTip": "C:\\Users\\mateu\\WebAppTraining\\ConsoleAppCalculator\\Calculator.Console.App\\Calculator.Console.App\\Calculator.Console.App.csproj",
+              "RelativeToolTip": "Calculator.Console.App\\Calculator.Console.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T18:33:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\WebAppTraining\\ConsoleAppCalculator\\Calculator.Console.App\\Calculator.Console.App\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator.Console.App\\Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\WebAppTraining\\ConsoleAppCalculator\\Calculator.Console.App\\Calculator.Console.App\\Program.cs*",
+              "RelativeToolTip": "Calculator.Console.App\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T18:33:13.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
